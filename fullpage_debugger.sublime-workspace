@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"esps",
+				"esps"
+			],
+			[
+				"my",
+				"myToken"
+			],
+			[
+				"update",
+				"updateAccountESP"
+			],
+			[
+				"tool",
+				"tooltip"
+			],
+			[
+				"text",
+				"text_email"
+			],
+			[
+				"set",
+				"set_link"
+			],
+			[
+				"html",
+				"html_template"
+			],
+			[
+				"cont",
+				"context_variables"
+			],
+			[
+				"get",
+				"get_template"
+			],
+			[
+				"django",
+				"django_template"
+			],
+			[
+				"templa",
+				"template_tags"
+			],
+			[
+				"template",
+				"template_variables"
+			],
+			[
+				"inspect",
+				"inspector_path"
+			],
+			[
+				"djang",
+				"django_core_mail"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/stephengallo/git/monetate-server/webui/email-client/services/account_esp.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/target/components/ConditionControls.js",
+		"/Users/stephengallo/git/monetate-server/webui/email-client/controllers/email_settings_controller.js",
+		"/Users/stephengallo/Desktop/coremetrics_debugger.js",
+		"/Users/stephengallo/Desktop/taga.js",
+		"/Users/stephengallo/Desktop/Name.js",
+		"/Users/stephengallo/git/monetate-server/webui/email-client/app.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/common/components/Tooltip.js",
+		"/Users/stephengallo/git/monetate-server/backend/server/catalog.py",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/actiontemplate/actions/UiActions.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/catalog/components/CategoriesElement.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/catalog/components/search/SearchListHeader.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/componentguide/components/ComponentGuide.js",
+		"/Users/stephengallo/git/monetate-server/closure/mt/css/objects/_tooltip.scss",
+		"/Users/stephengallo/git/monetate-server/ui-tests/node_modules/react-tools/src/addons/link/__tests__/ReactLinkPropTypes-test.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/catalog/components/search/SearchListRow.js",
+		"/Users/stephengallo/git/monetate-server/closure/mt/ui/experiencecreation/config/fullpageform.js",
+		"/Users/stephengallo/git/monetate-server/backend/test/replay/track_response.py",
+		"/Users/stephengallo/git/monetate-server/backend/server/track.py",
+		"/Users/stephengallo/git/monetate-server/backend/replay/track.py",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/templates/integrate/snippet_redirect.html",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/preconditions/redirects.py",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/middleware/redirect.py",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/catalog_feed/duplicate_feed.py",
+		"/Users/stephengallo/git/monetate-server/closure/mt/models/thirdparty.js",
+		"/Users/stephengallo/git/monetate-server/closure/mt/css/creative/picker/_boxes.scss",
+		"/Users/stephengallo/git/monetate-server/closure/mt/css/creative/_picker.scss",
+		"/Users/stephengallo/git/monetate-server/closure/mt/css/objects/_buttongroup.scss",
+		"/Users/stephengallo/git/monetate-server/closure/mt/templates/creative/list/boxes.soy",
+		"/Users/stephengallo/git/monetate-server/closure/mt/css/campaigngroup/_boxes.scss",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/experiencewizard/constants/FullPageFormConstants.js",
+		"/Users/stephengallo/git/monetate-server/ui-tests/node_modules/react-tools/src/browser/ui/dom/components/createFullPageComponent.js",
+		"/Users/stephengallo/git/monetate-server/closure/mt/images/pictograms/full-page-experience.svg",
+		"/Users/stephengallo/git/monetate-server/closure/mt/models/creative.js",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/templates/mauth/password_set_email.html",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/templates/mauth/desktop.html",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/retailer/rpc/user.py",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/templates/mauth/password_set_email.txt",
+		"/Users/stephengallo/Desktop/another_set-pass.html",
+		"/Users/stephengallo/Desktop/new_set_password_email.html",
+		"/Users/stephengallo/Desktop/stuff.py",
+		"/Users/stephengallo/Desktop/new_user.py",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/predicate/models.py",
+		"/Users/stephengallo/git/monetate-server/webui/monetate/templates/mauth/password_reset_email.html",
+		"/Users/stephengallo/git/monetate-server/closure/mt/date/date.js",
+		"/Users/stephengallo/git/monetate-server/ui/js/app/campaign/models/CampaignGroup.js",
+		"/Users/stephengallo/git/monetate-server/closure/mt/ui/catalog/list.js",
+		"/Users/stephengallo/git/monetate-server/closure/mt/models/catalog.js",
+		"/Users/stephengallo/Downloads/cred-sgallo.txt",
+		"/Users/stephengallo/Downloads/sitRL (1).csv",
+		"/Users/stephengallo/Downloads/stgewww.fingerhut.com-p2_async_v6.txt",
+		"/Users/stephengallo/Downloads/1683_20151207174006_product_feed_2015_12_07_12_21 2.xml",
+		"/Users/stephengallo/Downloads/219_20151203134504_BDMonetate.xml",
+		"/Users/stephengallo/Desktop/hideprodbanner.js",
+		"/Users/stephengallo/Desktop/3423_20151120151506_MonetateProduct.csv",
+		"/Users/stephengallo/Desktop/yoox.js",
+		"/Users/stephengallo/Desktop/testjs.js",
+		"/Users/stephengallo/Desktop/iframe.html",
+		"/Users/stephengallo/Desktop/newhtml.html",
+		"/Users/stephengallo/Desktop/3230_20151112040005_test_deleteme.txt",
+		"/Users/stephengallo/Downloads/product-feed-export-15-11-12-16-06.xml",
+		"/Users/stephengallo/Downloads/2041_20151110081005_sterling.csv",
+		"/Users/stephengallo/Downloads/monetate-oct-1.html",
+		"/Users/stephengallo/Downloads/davidsbridal_dev_sync.txt",
+		"/Users/stephengallo/Desktop/qvc_de_v8.1.txt",
+		"/Users/stephengallo/Downloads/direction.js",
+		"/Users/stephengallo/Downloads/Mobile App Sample Data Set.csv",
+		"/Users/stephengallo/Downloads/qa.buydomains.com-d_sync_v8.txt",
+		"/Users/stephengallo/Desktop/forMonetate.csv",
+		"/Users/stephengallo/Downloads/forMonetate (2).txt",
+		"/Users/stephengallo/Downloads/forMonetate (1).txt",
+		"/Users/stephengallo/Desktop/test",
+		"/Users/stephengallo/Downloads/dillards.com-p-2015-09-17T01-46-2015-09-17T03-32-instrument_v3-errors.txt",
+		"/Users/stephengallo/Downloads/Pid Categories 2015-09-14T1529.csv",
+		"/Users/stephengallo/Downloads/Bestsellers Data 2015-09-14T1448.csv",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/stephengallo/Desktop/3089_20150909223005_cm-us-mono.csv",
+		"/Users/stephengallo/Downloads/analytics-combinatons-379677-all-metrics (1).csv",
+		"/Users/stephengallo/Desktop/3089_20150908151506_cm-us-mono.csv",
+		"/Users/stephengallo/Desktop/personal/blackjack.py",
+		"/Users/stephengallo/Desktop/personal/edible.css",
+		"/Users/stephengallo/Desktop/blackjack.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			");\n",
+			"error",
+			"getesplist",
+			"then",
+			"$promise",
+			"accountesp.create",
+			"newWindow",
+			"create",
+			"emailApp",
+			"$scope.esps",
+			"ng-",
+			"getAccountDetails",
+			"getEspList",
+			"watchinput",
+			"myesp",
+			"((\\/\\/m-int1\\.walgreens\\.com\\/locator\\/.*\\/id=.*)|(\\/\\/m-int1\\.walgreens\\.com\\/store\\/c\\/.*\\/ID=prod.*-product)|(\\/\\/m-int1\\.walgreens\\.com\\/offers\\/offers\\.jsp.*(?<!yourcoupons))|(\\/\\/m-int1\\.walgreens\\.com\\/))$",
+			"(\\/\\/m-int1\\.walgreens\\.com\\/offers\\/offers\\.jsp.*(?<!yourcoupons))",
+			"((\\/\\/m-int1\\.walgreens\\.com\\/locator\\/.*\\/id=.*)|(\\/\\/m-int1\\.walgreens\\.com\\/store\\/c\\/.*\\/ID=prod.*-product)|(\\/\\/m-int1\\.walgreens\\.com\\/offers\\/offers\\.jsp.*(?<!yourcoupons))|(\\/\\/m-int1\\.walgreens\\.com\\/))$",
+			"redirect",
+			"((\\/\\/m-int1\\.walgreens\\.com\\/locator\\/.*\\/id=.*)|(\\/\\/m-int1\\.walgreens\\.com\\/store\\/c\\/.*\\/ID=prod.*-product)|(\\/\\/m-int1\\.walgreens\\.com\\/offers\\/offers\\.jsp.*(?<!yourcoupons))|(\\/\\/m-int1\\.walgreens\\.com\\/))$",
+			":(.+)",
+			";",
+			"tableviewmodechange",
+			"tableviewmode",
+			"tableheadercell",
+			"xlarge",
+			"redirect",
+			"page",
+			"redirect",
+			"data-tooltip-large",
+			"\"pid\": \"(\\d+-\\d+-\\d+)",
+			"experiences",
+			"updated",
+			".creative-data",
+			".list-controls",
+			".creative-picker",
+			".creative-picker .creative-box .creative-data",
+			"redirect",
+			" !important",
+			"!important",
+			"</br>",
+			"ensure_newline_at_eof_on_save",
+			"()",
+			"</br>",
+			"<\\br>",
+			"</br>",
+			"<br>",
+			"33%",
+			"{{ value|linebreaksbr }}",
+			"message",
+			"tag_path",
+			"path",
+			"</br>",
+			"{{ value|linebreaksbr }}",
+			"linebreaks",
+			"</br>",
+			"set_link",
+			"_send_set_password_email",
+			"retailer_models.User.objects.get",
+			"set_password_email",
+			"ID=",
+			"locationdistancePredicate",
+			"\\n",
+			"\\d{6}",
+			"\\n\\n",
+			"monetateQ.push",
+			"trackdata",
+			"monetateq",
+			"setcustomvariable",
+			" \\n",
+			"e.monetate.net/js/2/a-ca4ba9c7/p/walgreens.com/entry.js",
+			"e\\.",
+			"monetate",
+			"\\n",
+			"product",
+			"katespade-root",
+			"she",
+			"Kyle's mom",
+			"ks-clothing",
+			"%2C",
+			"monetateq.push",
+			"\\n\\n",
+			"[^\\x00-\\x7F]",
+			"\\n\\n",
+			"\\n",
+			"trackdata",
+			"setpagetype",
+			"<\\w",
+			"</",
+			"[^\\x00-\\x7F]",
+			"080909904",
+			"[a-z]+",
+			"\\n\\n",
+			"trackData",
+			"295",
+			"span",
+			"monetate",
+			"\\d",
+			"\\]",
+			"\\[",
+			"\\[\\d{5}\\]",
+			"\\n",
+			"\\d+",
+			"\\d{4}-\\d{2}-.{17}",
+			".+addpurchaserow",
+			"\"user-agent\", .+",
+			"addpurchaserow.+",
+			"[^\\x00-\\x7F]",
+			"monetate",
+			"Campaign Hourly Raw Metrics ",
+			"Campaign Hourly Raw Metrics",
+			"\\s+\\n",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$1?test=test",
+			"$1",
+			"$1?test=test",
+			"$1",
+			"$4",
+			"$3",
+			"$2",
+			"$1",
+			":\"$1\"",
+			"\"$1\"",
+			"\\n",
+			"$1",
+			"",
+			"{{ value|linebreaksbr }}",
+			"<br/>",
+			"</br>",
+			"<\\br>",
+			"</br>",
+			"<br>",
+			"{{ value|linebreaksbr }}",
+			"</br>",
+			"linebreaksbr",
+			"{{ value|linebreaks }}",
+			",",
+			"\\n",
+			",",
+			"",
+			",",
+			"he",
+			"Cann",
+			"\\n",
+			"",
+			",",
+			"\\n<\\w",
+			"\\n<\\/",
+			"\\n",
+			"\"$1\"",
+			"",
+			",",
+			"",
+			"\\n",
+			";\\n",
+			"\\n",
+			"\\;\\n",
+			";\\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/stephengallo/git/monetate-server/webui/email-client/services/fullpage_debugger.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"condition",
+				"ui/js/app/target/components/ConditionControls.js"
+			],
+			[
+				"emailsettingscontroller",
+				"webui/email-client/controllers/email_settings_controller.js"
+			],
+			[
+				"accountesp",
+				"webui/email-client/services/account_esp.js"
+			],
+			[
+				"emailapp",
+				"webui/email-client/app.js"
+			],
+			[
+				"catalog",
+				"backend/server/catalog.py"
+			],
+			[
+				"tooltip",
+				"ui/js/common/components/Tooltip.js"
+			],
+			[
+				"actions",
+				"ui/js/app/actiontemplate/actions/UiActions.js"
+			],
+			[
+				"searchlistheader",
+				"ui/js/app/catalog/components/search/SearchListHeader.js"
+			],
+			[
+				"_tooltip",
+				"closure/mt/css/objects/_tooltip.scss"
+			],
+			[
+				"redirect",
+				"webui/monetate/middleware/redirect.py"
+			],
+			[
+				"trac",
+				"backend/replay/track.py"
+			],
+			[
+				"track",
+				"backend/server/track.py"
+			],
+			[
+				"full",
+				"closure/mt/ui/experiencecreation/config/fullpageform.js"
+			],
+			[
+				"searchlistrow",
+				"ui/js/app/catalog/components/search/SearchListRow.js"
+			],
+			[
+				"thirdpar",
+				"closure/mt/models/thirdparty.js"
+			],
+			[
+				"duplicate_feed.py",
+				"webui/monetate/catalog_feed/duplicate_feed.py"
+			],
+			[
+				"boxes.soy",
+				"closure/mt/templates/creative/list/boxes.soy"
+			],
+			[
+				"_buttongroup",
+				"closure/mt/css/objects/_buttongroup.scss"
+			],
+			[
+				"boxes.scss",
+				"closure/mt/css/creative/picker/_boxes.scss"
+			],
+			[
+				"boxes.scs",
+				"closure/mt/css/campaigngroup/_boxes.scss"
+			],
+			[
+				"fullpage",
+				"closure/mt/images/pictograms/full-page-experience.svg"
+			],
+			[
+				"_picker",
+				"closure/mt/css/creative/_picker.scss"
+			],
+			[
+				"picker",
+				"closure/mt/css/creative/_picker.scss"
+			],
+			[
+				"creative",
+				"closure/mt/models/creative.js"
+			],
+			[
+				"password_set",
+				"webui/monetate/templates/mauth/password_set_email.html"
+			],
+			[
+				"user.py",
+				"webui/monetate/retailer/rpc/user.py"
+			],
+			[
+				"models",
+				"webui/monetate/predicate/models.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
