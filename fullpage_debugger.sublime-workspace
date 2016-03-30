@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"monetate",
+				"monetateRedirect"
+			],
+			[
 				"esps",
 				"esps"
 			],
@@ -105,6 +109,10 @@
 	},
 	"file_history":
 	[
+		"/Users/stephengallo/fullpage debugger/manifest.json",
+		"/Users/stephengallo/fullpage debugger/background.js",
+		"/Users/stephengallo/fullpage debugger/content.js",
+		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/Users/stephengallo/git/monetate-server/webui/email-client/services/account_esp.js",
 		"/Users/stephengallo/git/monetate-server/ui/js/app/target/components/ConditionControls.js",
 		"/Users/stephengallo/git/monetate-server/webui/email-client/controllers/email_settings_controller.js",
@@ -114,7 +122,6 @@
 		"/Users/stephengallo/git/monetate-server/webui/email-client/app.js",
 		"/Users/stephengallo/git/monetate-server/ui/js/common/components/Tooltip.js",
 		"/Users/stephengallo/git/monetate-server/backend/server/catalog.py",
-		"/Users/stephengallo/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
 		"/Users/stephengallo/git/monetate-server/ui/js/app/actiontemplate/actions/UiActions.js",
 		"/Users/stephengallo/git/monetate-server/ui/js/app/catalog/components/CategoriesElement.js",
 		"/Users/stephengallo/git/monetate-server/ui/js/app/catalog/components/search/SearchListHeader.js",
@@ -574,7 +581,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 318.0,
+	"side_bar_width": 131.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
